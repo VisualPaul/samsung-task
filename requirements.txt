@@ -1,0 +1,10 @@
+py3:
+torch >= 4.0 (conda/pip)
+torchvision (conda/pip)
+scikit-learn (conda/pip)
+scikit-image (conda/pip)
+matplotlib (conda/pip)
+jupyter (conda/pip)
+numpy
+wget (pip)
+ufal.udpipe (pip)
